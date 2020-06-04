@@ -7,16 +7,17 @@ import numpy as np
 
 app = Flask(__name__)
 
-@app.route('/predict', methods=['POST'])
-@app.route('/index', methods=['GET'])
+@app.route('/predict', methods=['GET', 'POST'])
+# @app.route('/index', methods=['GET'])
 
-def index():
-    return jsonify({'prediction': str("Hello Word")})
+# def index():
+#     return jsonify({'prediction': str("Hello Word")})
 
 def predict():
     if lr:
         try:
             json_ = request.json
+            print(request)
             print(json_)
             query = pd.get_dummies(pd.DataFrame(json_))
             query = query.reindex(columns=model_columns, fill_value=0)

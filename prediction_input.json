@@ -1,0 +1,30 @@
+[
+  {
+    "Current Loan Amount" : 10000,
+    "Credit Score" : 750,
+    "Annual Income" : 1300000,
+    "Monthly Debt": 12300,
+    "Years of Credit History" : 3,
+    "Months since last delinquent": 1,
+    "Number of Open Accounts" : 1,
+    "Number of Credit Problems": 0,
+    "Current Credit Balance": 10000,
+    "Maximum Open Credit": 100000,
+    "Bankruptcies": 0,
+    "Tax Liens": 190
+  },
+  {
+    "Current Loan Amount" : 10000,
+    "Credit Score" : 75,
+    "Annual Income" : 1300,
+    "Monthly Debt": 12300,
+    "Years of Credit History" : 3,
+    "Months since last delinquent": 1,
+    "Number of Open Accounts" : 1,
+    "Number of Credit Problems": 0,
+    "Current Credit Balance": 10000,
+    "Maximum Open Credit": 100000,
+    "Bankruptcies": 0,
+    "Tax Liens": 190
+  }
+]
