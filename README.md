@@ -118,14 +118,33 @@
             <li>
                 Logisitic Regression Classifier
                 <br />
+                <img src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/LR.PNG"/>
+            </li>
+            <li>
+                K-Nearest-Neighbors Classifier
+                <br />
+                <img src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/KNN-Classifier.PNG"/>
+            </li>
+            <li>
+                Decision Tree <Classifier></Classifier>
+                <br />
                 <img src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/Decision%20Tree%20Classifier.PNG"/>
             </li>
-            <li>K-Nearest-Neighbors Classifier</li>
-            <li>Decision Tree Classifier</li>
-            <li>Random Forest Classifier</li>
-            <li>XGBoost Classifier</li>
-            <li>Gradient Boosting Classifier</li>
-            <li>AdaBoost Classifier</li>
+            <li>
+                Random Forest Classifier
+                <br />
+                <img src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/Random%20Forest.PNG"/>
+            </li>
+            <li>
+                XGBoost Classifier
+                <br />
+                <img src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/XGBoost.PNG"/>
+            </li>
+            <li>
+                Gradient Boosting Classifier
+                <br />
+                <img src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/Gradient%20Boosting.PNG"/>
+            </li>
         </ul>      
     </li>
     <li>
