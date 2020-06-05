@@ -11,7 +11,7 @@
         <li>
             Introduction to <b>Connections</b>
             <br />
-                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/conn.PNG"/>
+                <img width="500px" height="250px" style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/conn.PNG"/>
             <ul>
                 <li><b>FIS</b> customer relationship management Web App </li>
                 <li>
@@ -107,14 +107,14 @@
         <b>Supervised Learning </b>Models Used
         <ul>
             <li>
-                K-Nearest-Neighbors Classifier for Product Recommendation (74% Accuracy)
+                K-Nearest-Neighbors Classifier for Product Recommendation (74.6% Accuracy)
                 <br />
-                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/knnmatrix.PNG"/>
+                <img width="500px" height="250px" style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/knnacc.PNG"/>
             </li>
             <li>
                 XGBoost Classifier for Loan Repayment Prediction (83.74% Accuracy)   
                 <br />
-                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/xgbacc.PNG"/>   
+                <img width="500px" height="250px" style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/xgbacc.PNG"/>
             </li>
         </ul>
     </li>
@@ -123,33 +123,21 @@
         <ul>
             <li>
                 Logisitic Regression Classifier
-                <br />
-                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/LR.PNG"/>
             </li>
             <li>
                 K-Nearest-Neighbors Classifier
-                <br />
-                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/KNN-Classifier.PNG"/>
             </li>
             <li>
                 Decision Tree Classifier
-                <br />
-                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/Decision%20Tree%20Classifier.PNG"/>
             </li>
             <li>
                 Random Forest Classifier
-                <br />
-                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/Random%20Forest.PNG"/>
             </li>
             <li>
                 XGBoost Classifier
-                <br />
-                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/XGBoost.PNG"/>
             </li>
             <li>
                 Gradient Boosting Classifier
-                <br />
-                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/Gradient%20Boosting.PNG"/>
             </li>
         </ul>      
     </li>
