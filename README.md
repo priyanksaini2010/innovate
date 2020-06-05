@@ -1,4 +1,4 @@
-<h1>InnovateIN48 5th May 2020  Valarian  Gurugram</h1>
+<h1>InnovateIN48 5th May 2020  Valarians  Gurugram</h1>
 <h2>Team introduction</h2>
 <ul>
     <li>Amit Sharma</li>
@@ -6,14 +6,16 @@
     <li>Manish Phalaswal</li>
 </ul>
 <h2>Problem Statements</h2>
-- <h4>Problem Statement 1</h4>
+ <h4>Problem Statement 1</h4>
     <ul>
         <li>
             Introduction to <b>Connections</b>
+            <br />
+                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/conn.PNG"/>
             <ul>
-                <li><b>FIS</b> customer relation management Web App </li>
+                <li><b>FIS</b> customer relationship management Web App </li>
                 <li>
-                    Integerated with following FIS cores
+                    Integrated with following FIS cores :
                         <ul>
                             <li>Bankway</li>
                             <li>Horizon</li>
@@ -25,21 +27,21 @@
                 <li>300+ Community banks</li>
             </ul>
         </li>
-        <li> Problem with Connections recommendation engine.
+        <li> Problem with Connections recommendation engine :
             <ul>
-                <li>Bank teller recommends product to customers on human judgement <br/>
-                without any statistics</li>
-                <li>Bank teller have to followup with these recommendation for months <br/>
-            which many time results in zero output</li>
+                <li>Bank teller recommends product to customers on human judgement 
+                without any statistics.</li>
+                <li>Bank teller have to followup with these recommendation for months 
+            which many time results in zero output.</li>
             </ul>
         </li>
-    </ul>. 
+    </ul>
         
          
          
         
   
-- <h4>Problem Statement 2</h4>
+<h4>Problem Statement 2</h4>
     <ul>
         <li>
             <b>Bad Loans</b>
@@ -51,8 +53,8 @@
     </ul>
     
     
-##Solution
-- <h4> Solution for problem  #1 </h4>
+<h2>Solutions</h2>
+<h4> Solution for problem  #1 </h4>
     <ul>
         <li>Strong arm Bank tellers with a statistical customer classification program</li>
         <li>
@@ -61,7 +63,7 @@
                 <li>Extract historical data</li>
                 <li>Clean Up data</li>
                 <li>
-                Take benefit of <b>Machine Learning</b> algorithms to train model that can judge <br />
+                Take benefit of <b>Machine Learning</b> algorithms to train model that can judge 
                 if customer will subscribe to certain product.
                 </li>
                 <li>
@@ -72,66 +74,124 @@
                 </li>
             </ul>
         </li>
-        <li>
-            Impact of solution
-            <ul>
-                <li>
-                    With this solution in place 
-                </li>
-            </ul>
-        </li>
     </ul>
 
-- <h4>Solution for problem  #2</h4>
+<h4>Solution for problem  #2</h4>
     <ul>
         <li>
-            As described in solution #1 Machine Learning algorithms can be used to <br/> strong arm 
-            bank employee / agents to judge bank load defaulter beforehand  
+            As described in solution #1 Machine Learning algorithms can be used to  strong arm 
+            bank employee / agents to judge bank loan defaulter beforehand  
         </li>
     </ul>
-##Technology Used
-- Python 3
-- Python Libraries Used
-    * Pandas
-    * Numpy
-    * Xgboost
-    * Sklearn
-    * Matplotlib
-    * Imblearn
-- Supervised Learning Models Used
-    * K-Nearest-Neighbors for Product Recommendation (74% Accuracy)
-    * XGBoost Classifier for Loan Repayment Prediction (88% Accuracy)
-- Supervised Learning Models Tried
-    * Logisitic Regression Classifier
-    * K-Nearest-Neighbors Classifier
-    * Decision Tree Classifier
-    * Random Forest Classifier
-    * Neural Network Classifier
-    * XGBoost Classifier
-    * Gradient Boosting Classifier
-    * AdaBoost Classifier
-    
-- Jupyter Notebook
-
-- Python Flask framework for Web API 
-    
-
-##Future Scope
+<h2>Value Adds</h2>
+<ul>
+    <li>Bank employees will have more stability in their book of business (Good for employees).</li>
+    <li>More careful underwriting hence preventing bank's loss of income (Good for the bank; Reduce insolvency risk).</li>
+    <li>Difference in earned premium can be re-invested in business/distributed among shareholders (Good for investors)</li>
+</ul>
+<h2>Technology Used </h2>
+<ul>
+    <li>Python 3</li>
+    <li>
+        Python libraries Used
+        <ul>
+            <li>Pandas</li>
+            <li>Numpy</li>
+            <li>Xgboost</li>
+            <li>Sklearn</li>
+            <li>Matplotlib</li>
+            <li>Imblearn</li>
+        </ul>
+    </li>
+    <li>
+        <b>Supervised Learning </b>Models Used
+        <ul>
+            <li>
+                K-Nearest-Neighbors Classifier for Product Recommendation (74% Accuracy)
+                <br />
+                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/knnmatrix.PNG"/>
+            </li>
+            <li>
+                XGBoost Classifier for Loan Repayment Prediction (83.74% Accuracy)   
+                <br />
+                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/xgbacc.PNG"/>   
+            </li>
+        </ul>
+    </li>
+    <li>
+        <b>Supervised Learning</b> Models Tested
+        <ul>
+            <li>
+                Logisitic Regression Classifier
+                <br />
+                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/LR.PNG"/>
+            </li>
+            <li>
+                K-Nearest-Neighbors Classifier
+                <br />
+                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/KNN-Classifier.PNG"/>
+            </li>
+            <li>
+                Decision Tree Classifier
+                <br />
+                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/Decision%20Tree%20Classifier.PNG"/>
+            </li>
+            <li>
+                Random Forest Classifier
+                <br />
+                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/Random%20Forest.PNG"/>
+            </li>
+            <li>
+                XGBoost Classifier
+                <br />
+                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/XGBoost.PNG"/>
+            </li>
+            <li>
+                Gradient Boosting Classifier
+                <br />
+                <img style="width: 500px;height: 250px" src="https://raw.githubusercontent.com/priyanksaini2010/innovate/master/Gradient%20Boosting.PNG"/>
+            </li>
+        </ul>      
+    </li>
+    <li>
+        Python Jupyter Notebook      
+    </li>
+    <li>
+        Python <b>Flask</b> framework for Web API    
+    </li>
+</ul>
+<h2>Agility</h2>
+<ul>
+    <li>Easy integration with any client with exposed API</li>
+</ul>
+<h2>Future Scope</h2>
 <ul>
     <li>
         Merging two models on the basis of product classification
         <ul>
             <li>
-                If a customer is predicted as potential prospect by model #1 <br>
+                If one customer is predicted as a potential prospect by model #1 
                 It would call model #2 in case product is of credit type.
             </li>
             <li>
-                Integration of <b>churn prediction</b> model.  
+                Integration with <b>Churn prediction</b> model.  
             </li>
         </ul>
     </li>
+    <li>Can be extended further to train model as per client requirement</li>
 </ul>
+<h2>Constraints in current POC</h2>
+<ul>
+    <li>
+        Publicly available dataset are used
+    </li>
+    <li>
+        Client application is not developed due to time constraints hence using PostMan 
+    </li>
+    <li>
+        Due to time constraints <b>FIS</b> API security guidelines are not inplace
+    </li>
+</ul>
+<h2>Project Demo</h2>
 
-##Project Demo
-
-##Query ?
+<h2>Query ?</h2>
