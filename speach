@@ -1,0 +1,33 @@
+ Good evening Judges
+My name is Priyank Saini of Team valarians from GGN along with my team mate 
+Amit Sharma,
+Manish Phalswal 
+Today we are here to demonstrate our project for InnovateIn48 2020
+Our Idea is inspired by an existing problem in one of the FIS product know as Connections.
+Connections is a cost-efficient, Web-based Customer Relationship Management (CRM) tool. It is designed specifically to help financial organizations to develop valuable account holder relationships by targeting products and services that meet the specific needs of each account holder.
+With a customer base of 300+ banks .Connections is empowered with Many FIS core
+Connections enables bank tellers to recommend various products services to their customer or person visiting the bank.
+This recommendation is generally based on the manually added rules and human judgement, with no statistics consideration. 
+This results in too much follow-ups,  which sometimes result in zero output.
+Our second problem statements are basically bad loan or loans that are not paid off. Which causes negative impact on bank employee’s work history and bank’s profit.
+To adhere problem statement 1 we came across the idea to strong arm bank teller with a tool that predict if a customer is a potential prospect or not.
+To achieve this tool we leverages ML Algorithms  to train a model on bank’s historical data after cleaning it to make prediction. This model is then exposed as web API for integration with client application.
+But the problem lies with this solution is if a customer is predicted as a potential prospect and product is of credit type examples loans then it should predict if the customer is going to pay the debt beforehand. 
+Hence we trained one more model to predict borrower’s credit worthiness.
+This solution adds value to bank as
+Employee will now have more stable business in their books, that’s good for employees
+With more careful underwriting , its preventing bank's loss of assets hence good for banks
+Difference in earned premium can be re-invested in business or can distributed among shareholders , so Good for investors I guess
+From technology point of view
+We took advantage  python’s Machine learning libraries to build this model. Some of them are 
+o	Pandas Numpy  Xgboost Sklearn  Matplotlib Imblearn
+We used Supervised learning’s KNN classifier to for recommendation model which is 74.6 % accurate
+We used XGBoos classifier to for recommendation model which is 83.74 % accurate
+ Apart from this we shot our arrows in dark and tried test other models like
+o	Logisitic Regression Classifier
+o	K-Nearest-Neighbors Classifier
+o	Decision Tree Classifier
+o	Random Forest Classifier
+o	XGBoost Classifier
+o	Gradient Boosting Classifier
+
